@@ -17,7 +17,7 @@ A simple and responsive **Password Strength Checker** built using **HTML, CSS, a
 
 ## 🌐 Live Demo
 
-🔗 **Live Website:** https://your-live-demo-link.netlify.app/
+🔗 **Live Website:** https://show-password-strength-rose.vercel.app/
 
 
 ---
@@ -61,7 +61,7 @@ Password-Strength-Checker/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/password-strength-checker.git
+git clone https://github.com/bs-bhaskar/show-password-strength.git
 ```
 
 ### Open the Project
